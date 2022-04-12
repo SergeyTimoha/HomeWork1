@@ -7,16 +7,21 @@ int a = Convert.ToInt32(ReadLine());
 WriteLine("Введите второе число");
 int b = Convert.ToInt32(ReadLine());
 WriteLine("Введите третье число");
-int с = Convert.ToInt32(ReadLine());
-int max = a;
-if (max < b)
+int c = Convert.ToInt32(ReadLine());
+
+if (a > b & a > b)
 {
-    max = b;
-    WriteLine(max);
+    WriteLine("Первое число max = " + a );
 }
-if (max < c);
+else
 {
-    WriteLine(max);
-    max = c;
+    if (b > c)
+    {
+        WriteLine("Второе число max = " + b );
+    }
+    else
+    {
+
+        WriteLine("Третье число max = " + c );
+    }
 }
-WriteLine(max);
