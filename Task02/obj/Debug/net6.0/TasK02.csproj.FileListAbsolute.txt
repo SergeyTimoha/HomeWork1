@@ -1,0 +1,15 @@
+C:\Домашка по C#\HomeWork\TasK02\bin\Debug\net6.0\TasK02.exe
+C:\Домашка по C#\HomeWork\TasK02\bin\Debug\net6.0\TasK02.deps.json
+C:\Домашка по C#\HomeWork\TasK02\bin\Debug\net6.0\TasK02.runtimeconfig.json
+C:\Домашка по C#\HomeWork\TasK02\bin\Debug\net6.0\TasK02.dll
+C:\Домашка по C#\HomeWork\TasK02\bin\Debug\net6.0\TasK02.pdb
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\TasK02.csproj.AssemblyReference.cache
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\TasK02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\TasK02.AssemblyInfoInputs.cache
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\TasK02.AssemblyInfo.cs
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\TasK02.csproj.CoreCompileInputs.cache
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\TasK02.dll
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\refint\TasK02.dll
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\TasK02.pdb
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\TasK02.genruntimeconfig.cache
+C:\Домашка по C#\HomeWork\TasK02\obj\Debug\net6.0\ref\TasK02.dll
