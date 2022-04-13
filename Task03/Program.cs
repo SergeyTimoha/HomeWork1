@@ -9,7 +9,7 @@ int b = Convert.ToInt32(ReadLine());
 WriteLine("Введите третье число");
 int c = Convert.ToInt32(ReadLine());
 
-if (a > b & a > b)
+if (a > b & a > c)
 {
     WriteLine("Первое число max = " + a );
 }
