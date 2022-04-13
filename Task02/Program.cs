@@ -3,9 +3,9 @@ using static System.Console;
 
 
 WriteLine("Введите первое число");
-int a = int.Parse(ReadLine());
+int a = Convert.ToInt32(ReadLine());
 WriteLine("Введите второе число");
-int b = int.Parse(ReadLine());
+int b = Convert.ToInt32(ReadLine());
 int  max, min;
 if (a > b)
 {
