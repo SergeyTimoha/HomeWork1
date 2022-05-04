@@ -1,4 +1,4 @@
-﻿/* Задача 43: Напишите программу, которая найдёт точку пересечения двух
+﻿/*ВАРИАНТ 1: Задача 43: Напишите программу, которая найдёт точку пересечения двух:
  прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; 
  значения b1, k1, b2 и k2 задаются пользователем.
 
@@ -18,7 +18,8 @@ double y = k1 * x + b1;
 
 Console.WriteLine($"({x} , {y})");
 
-/*Console.WriteLine("Введите четыре цифры координат через пробел: ");
+/*ВАРИАНТ 2: 
+Console.WriteLine("Введите четыре цифры координат через пробел: ");
 double[] arr = Console.ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries).Select(x=>double.Parse(x)).ToArray();
 double b1 = arr[0];
 double k1 = arr[1];
