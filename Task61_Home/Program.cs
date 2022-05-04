@@ -19,6 +19,7 @@ double y = k1 * x + b1;
 Console.WriteLine($"({x} , {y})");
 
 /*ВАРИАНТ 2: 
+
 Console.WriteLine("Введите четыре цифры координат через пробел: ");
 double[] arr = Console.ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries).Select(x=>double.Parse(x)).ToArray();
 double b1 = arr[0];
